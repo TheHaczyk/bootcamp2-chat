@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/bootcamp2-chat-backend"
+]
+resolver = "2"
